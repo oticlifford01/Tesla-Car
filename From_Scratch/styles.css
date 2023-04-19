@@ -30,7 +30,10 @@ li {
 }
 
 a {
-    float: right;
     color: white;
     font-size: large;
+}
+
+.header {
+    float: right;
 }
